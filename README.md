@@ -6,4 +6,4 @@
 
 ## Live site URL
 
-https://github.com/sanjayvjacob/todolist-app-react-2
+https://sanjayvjacob.github.io/todolist-app-react-2/
