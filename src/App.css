@@ -42,13 +42,20 @@ img{
 input{
   background-color: #FBF8DD;
   border-radius: 10px;
+  border-color: black;
 }
 
 button{
   background-color: #FBF8DD;
+  border-color: black;
   border-radius: 10px;
   width: 50px;
   cursor: pointer;
+}
+
+span{
+  color: black;
+  font-weight: bold;
 }
 
 ul {
